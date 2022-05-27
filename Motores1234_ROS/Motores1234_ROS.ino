@@ -23,9 +23,9 @@ int speed4 = 6;
 
 char valor;
 
-void ROS_cmd( const std_msgs::char& cmd_msg){
+void ROS_cmd( const std_msgs::UInt16& cmd_msg){
 
-           valor = cms_msg;
+           valor = cmd_msg.data;
         
            
 // ----------------------------------------------ROLL-----------------------------------------
