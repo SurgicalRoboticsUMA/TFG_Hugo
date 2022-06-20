@@ -18,3 +18,5 @@ Por este último motivo, este Trabajo de Fin de Grado se centra en el desarrollo
 La realización de este proyecto se ha dividido en tres fases: una primera fase de estudio del mecanismo, una segunda fase de diseño hardware y software y, una última fase de experimentación. Para el desarrollo de la primera fase se ha realizado un estudio de la cinemática directa del instrumento y de su geometría. En cuanto a la segunda fase, se han empleado cuatro motores y un controlador para el control de los grados de libertad del instrumento y se ha hecho uso de software como SolidWorks para el diseño y MatLab, Arduino y ROS para el control de los movimientos. Finalmente, se ha realizado la comprobación del correcto funcionamiento del sistema desarrollado.
 
 Palabras claves: Instrumento quirúrgico, brazo robótico, control, diseño.
+
+<image src=/media/image1.jpeg alt="">
